@@ -38,7 +38,7 @@ def heal(Health, amount):
               + Color.RED + str(Health + amount) + "/5 " + Color.END + "health points")
         return Health + amount
     else:
-        print("You are at full health - " + Color.GREEN + str(Health) + "/5 " + Color.END + "health points")
+        print("You are already at full health - " + Color.GREEN + str(Health) + "/5 " + Color.END + "health points\n")
         return Health
 
 
