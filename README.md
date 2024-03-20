@@ -1,4 +1,4 @@
-# Python Text Adventure Shell Game
+# <span style="color:green;">Python Text Adventure Shell Game</span>
 
 Simple and sweet game I have been working on while learning Python.
 Text-based adventure game written in Python, featuring random number generator events, colorful text, and a health point tracker.
