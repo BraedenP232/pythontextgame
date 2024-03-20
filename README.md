@@ -40,13 +40,10 @@ python main.py
 ```
 Follow the on-screen instructions to play the game.
 
-## Screenshots
+## Preview
 
+![TextGameCatGifCropped](https://github.com/BraedenP232/pythontextgame/assets/83258877/a9ab7894-4cce-49cd-a400-e620aed492bb)
 
-Description of screenshot.
-
-
-Description of screenshot.
 
 ## Contributing
 
